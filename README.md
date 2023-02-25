@@ -21,7 +21,7 @@
 ![Microservices](https://img.shields.io/badge/microservices-blueviolet?style=for-the-badge&logo=docker)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamledo&layout=compact&theme=dark)
+
 
 ## Principais projetos:
 
