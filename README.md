@@ -1,7 +1,7 @@
 ## Olá! Eu sou o William Lêdo 
 
-[![Enviar e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamledoc@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-ledo/)
+[![Enviar e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamledoc@gmail.com)
 
 ## Principais tecnologias: 
 
