@@ -12,7 +12,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamledo&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamledo&layout=compact&theme=dark)
 
 ## Principais projetos:
 
