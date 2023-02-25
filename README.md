@@ -13,7 +13,7 @@
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![API Rest](https://img.shields.io/badge/API%20Rest-brightgreen?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMdEVYdENyZWF0aW9uIFRpbWUAMjAyMzowMzoyNSAxNzowMDo1OYY8frkAAAAh0lEQVRYR+2XIQrDMAxFX/f9/mBcT0oRpD0oWzgQs1AdZfzFkUB6U9h3UjewPMyGxzM2lRvRJjKdYDAkCgIBOePMNvR9WAgFFNtwyhyV1jbuAOe5Bl/Ge3Y8lrZ7Vc5Q5GmXl/HOTQ8y1KFAxieS/XFbL/WwL8YjKMB4Z4t4v+oimpxG8L1FjKvbJnfSb0+g1wY/MKjOZ/kAAAAASUVORK5CYII=)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamledo&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Estudando: 
