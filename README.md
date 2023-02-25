@@ -12,11 +12,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamledo&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamledo&layout=compact&theme=merko)
 
 ## Principais projetos:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamledo&repo=MedAPI&theme=dark)](https://github.com/williamledo/MedAPI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamledo&repo=EncurtadorDeUrl&theme=dark)](https://github.com/williamledo/EncurtadorDeUrl)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamledo&repo=ConsultaFrete&theme=dark)](https://github.com/williamledo/ConsultaFrete)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamledo&repo=ApiMercado&theme=radical)](https://github.com/williamledo/ApiMercado)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamledo&repo=MedAPI&theme=merko)](https://github.com/williamledo/MedAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamledo&repo=EncurtadorDeUrl&theme=merko)](https://github.com/williamledo/EncurtadorDeUrl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamledo&repo=ConsultaFrete&theme=merko)](https://github.com/williamledo/ConsultaFrete)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamledo&repo=ApiMercado&theme=merko)](https://github.com/williamledo/ApiMercado)
